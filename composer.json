@@ -1,0 +1,9 @@
+{
+    "require": {
+        "slim/slim": "~2.6",
+        "tuupola/slim-jwt-auth": "~1.0",
+        "entomb/slim-json-api": "dev-master",
+        "tuupola/slim-basic-auth": "~1.0",
+        "palanik/corsslim": "*"
+    }
+}
